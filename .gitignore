@@ -1,0 +1,30 @@
+# Node dependencies
+frontend/node_modules/
+
+# Python virtual environment
+backend/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# SQLite database file (generated at runtime)
+backend/instance/jobs.db
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Build artifacts
+frontend/build/
+
+# Large media files
+*.mp4
