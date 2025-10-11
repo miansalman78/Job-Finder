@@ -28,3 +28,5 @@ frontend/build/
 
 # Large media files
 *.mp4
+temp_auto_push.bat
+temp_interactive_push.bat
