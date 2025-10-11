@@ -133,7 +133,7 @@ A full-stack job listing web application with an attractive, modern, and 3D-styl
 
 ## Video Demo
 
-A video demonstration of the application can be found at [link to video demo].
+A video demonstration of the application can be found at (https://drive.google.com/file/d/1r7BEfn528j8UX9yyR2jo9TCFo46mAvI8/view?usp=sharing).
 
 ## License
 
